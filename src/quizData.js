@@ -1,8 +1,8 @@
 const quizData = [
     {
       question: "What was the first video game ever made?",
-      options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
-      answer: "Spacewar!"
+      options: ["Pong", "Spacewar", "Tetris", "Computer Space"],
+      answer: "Spacewar"
     },
     {
       question: "Which company developed the first commercial antivirus software?",
@@ -10,9 +10,9 @@ const quizData = [
       answer: "McAfee"
     },
     {
-      question: "Which animal is featured in the official PHP logo?",
-      options: ["Elephant", "Hippo", "Giraffe", "Lion"],
-      answer: "Elephant"
+      question: "What score do you have to get on your quiz for SPC to pay for your AWS SA cert?",
+      options: ["60%", "80%", "100%", "70%"],
+      answer: "80%"
     },
     {
       question: "What does 'HTTP' stand for?",
@@ -34,15 +34,15 @@ const quizData = [
       options: ["2005", "2007", "2009", "2011"],
       answer: "2007"
     },
-    {
-      question: "What was Google's original name?",
-      options: ["BackRub", "Googol", "SearchMaster", "WebSearch"],
-      answer: "BackRub"
+    
+      question: "Who teaches the best AWS SA class for SPC?",
+      options: ["Jeff Bezo", "YouTube", "Dwayne Josephson", "Dr. Seuss"],
+      answer: "Dwayne Josephson"
     },
     {
-      question: "Which of these companies was not founded in a garage?",
-      options: ["Amazon", "Google", "Apple", "Microsoft"],
-      answer: "Amazon"
+      question: "Which of these companies was founded by Amazon?",
+      options: ["AWS", "Google", "Apple", "Microsoft"],
+      answer: "AWS"
     },
     {
       question: "What does 'GPU' stand for?",
@@ -50,19 +50,19 @@ const quizData = [
       answer: "Graphics Processing Unit"
     },  
     {
-      question: "What is the capital of France?",
-      options: ["New York", "London", "Paris", "Dublin"],
-      answer: "Paris"
+      question: "Are you going to pass your AWS SA exam?",
+      options: ["Yes", "No", "Maybe", "IDK"],
+      answer: "Yes"
     },
     {
-      question: "Who painted the Mona Lisa?",
-      options: ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-      answer: "Leonardo da Vinci"
+      question: "Do you have an AWS account?",
+      options: ["No", "I think so", "Yes", "I do not know what AWS is"],
+      answer: "Yes"
     },
     {
-      question: "What is the largest planet in our solar system?",
-      options: ["Earth", "Jupiter", "Saturn", "Mars"],
-      answer: "Jupiter"
+      question: "Study material for your course are provided in a ________ link?",
+      options: ["Google Docs", "Handbook", "Textbook", "Chat GPT],
+      answer: "Google Docs"
     }
   ];
   
