@@ -61,7 +61,7 @@ const quizData = [
     },
     {
       question: "Study material for your course are provided in a ________ link?",
-      options: ["google docs", "Handbook", "Textbook", "Chat GPT],
+      options: ["google docs", "Handbook", "Textbook", "Chat GPT"],
       answer: "google docs"
     }
   ];
