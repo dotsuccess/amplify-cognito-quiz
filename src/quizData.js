@@ -34,7 +34,7 @@ const quizData = [
       options: ["2005", "2007", "2009", "2011"],
       answer: "2007"
     },
-    
+    {
       question: "Who teaches the best AWS SA class for SPC?",
       options: ["Jeff Bezo", "YouTube", "Dwayne Josephson", "Dr. Seuss"],
       answer: "Dwayne Josephson"
@@ -61,8 +61,8 @@ const quizData = [
     },
     {
       question: "Study material for your course are provided in a ________ link?",
-      options: ["Google docs", "Handbook", "Textbook", "Chat GPT],
-      answer: "Google docs"
+      options: ["google docs", "Handbook", "Textbook", "Chat GPT],
+      answer: "google docs"
     }
   ];
   
